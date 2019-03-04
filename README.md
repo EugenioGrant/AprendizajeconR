@@ -4,9 +4,12 @@ La segmentación es una tarea de Aprendizaje Automático no supervisado que de f
 
 # 1.Presentación 
 
-[PDF - Aprendizaje Automático con R](https://github.com/FavioVazquez/mundo-de-spark-en-r/blob/master/Mundo%20de%20Spark%20en%20R.pdf)
+[PDF - Aprendizaje Automático con R](https://github.com/EugenioGrant/AprendizajeconR/blob/master/SCRUG_MLwR.pdf)
 
 # 2. Código R
 
 [R Code](https://github.com/EugenioGrant/AprendizajeconR/blob/master/01%20-%20R%20Clustering.r)
 
+# 2. Test Database
+
+[csv dataset](https://github.com/EugenioGrant/AprendizajeconR/blob/master/01%20-%20R%20Clustering.r)
